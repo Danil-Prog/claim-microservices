@@ -32,6 +32,15 @@
 
   <dependencies>
 
+    <!-- LOMBOK -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.16</version>
+      <scope>provided</scope>
+    </dependency>
+    <!-- LOMBOK -->
+
     <dependency>
       <groupId>io.micronaut.reactor</groupId>
       <artifactId>micronaut-reactor</artifactId>

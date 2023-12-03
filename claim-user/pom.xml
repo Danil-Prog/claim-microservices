@@ -32,6 +32,15 @@
 
   <dependencies>
 
+    <!-- LOMBOK -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.16</version>
+      <scope>provided</scope>
+    </dependency>
+    <!-- LOMBOK -->
+
     <dependency>
       <groupId>io.micronaut.discovery</groupId>
       <artifactId>micronaut-discovery-client</artifactId>
